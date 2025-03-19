@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td>Git, vsCode, Jira, Miro, Tableau</td>
+    <td>Git, VS Code, Jira, Miro, Tableau</td>
   </tr>
 </table>
 
