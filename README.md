@@ -38,6 +38,7 @@
   <li>🌐 Portfolio: <a href="https://tourmaline-echinacea-091.notion.site/Salesforce-Developer-1b38485ec5408067b037c9ad13ee1580?pvs=4">Notion</a></li>
   <li>📧 Email: <a href="mailto:hwan2.dev@gmail.com">hwan2.dev@gmail.com</a></li>
   <li>🐙 GitHub: <a href="http://github.com/hwan2-dev">github.com/hwan2-dev</a></li>
+  <li>💼 LinkedIn: <a href="www.linkedin.com/in/changhwan2">changhwan2</a></li>
 </ul>
 
 ---
